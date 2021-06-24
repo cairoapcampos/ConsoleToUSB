@@ -1,5 +1,11 @@
 #!/bin/bash
 
+######################################################
+# Script de acesso a console (ConsoleToUSB)          #
+# Versão: 1.0 - 24/06/21                             #
+# Autor: Cairo Ap. Campos                            #
+######################################################
+
 # Variaveis
 findTerm=$(ls -l /dev/ttyUSB0 2> /dev/null | wc -l)
 deviceTerm=$(ls /dev/ttyUSB0)
