@@ -13,9 +13,10 @@ Cabo utilizado: HL USB-RS232
 ```
 git clone https://github.com/cairoapcampos/ConsoleToUSB.git
 ```
-2. Entrar na pasta e executar o script:
+2. Entrar na pasta, definir o script como executável e executá-lo:
 ```
 cd ConsoleToUSB
+chmod +x ConsoleToUSB.sh
 ./ConsoleToUSB.sh
 ```
 
