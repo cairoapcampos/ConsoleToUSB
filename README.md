@@ -1,7 +1,7 @@
 # ConsoleToUSB
 Script de acesso de consoles de switches em ambientes GNU/Linux 
 
-## Ambiente de teste:
+## Ambiente de Teste:
 
 Sistema Operacional: GNU/Linux Ubuntu 20.04
 
