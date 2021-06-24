@@ -10,3 +10,12 @@ Cabo utilizado: HL USB-RS232
 ## Utilização:
 
 1. Clonar repositório:
+```
+git clone https://github.com/cairoapcampos/ConsoleToUSB.git
+```
+2. Entrar na pasta e executar o script:
+```
+cd ConsoleToUSB
+./ConsoleToUSB.sh
+```
+
