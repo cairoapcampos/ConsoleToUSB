@@ -20,7 +20,7 @@ chmod +x ConsoleToUSB.sh
 ./ConsoleToUSB.sh
 ```
 
-Obs: Se o dispositivo **/dev/ttyUSB0** não estiver aparecendo em sistemas Linux baseados em Ubuntu 22.04, leia o link abaixo:
+**Obs**: Se o dispositivo **/dev/ttyUSB0** não estiver aparecendo em sistemas Linux baseados em Ubuntu 22.04, leia o link abaixo:
 ```
 https://askubuntu.com/questions/1403705/dev-ttyusb0-not-present-in-ubuntu-22-04
 ```
