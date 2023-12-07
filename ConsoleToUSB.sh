@@ -80,7 +80,7 @@ puttyInit() {
 sudo chmod 666 /dev/ttyUSB0
 echo -n "Digite a velocidade desejada (Ex: 9600, 38400, 115200): "
 read puttySpeed
-putty -serial $deviceTerm $puttySpeed
+putty -serial $deviceTerm -sercfg $puttySpeed
 }
 
 minicomInit() {
